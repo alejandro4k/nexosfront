@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.logincontainer{
+    display: flex;
+    justify-content: center;
+    
+}
+.centerVertical{
+    margin: 0;
+    
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  
+}
