@@ -20,7 +20,7 @@ class Transacciones extends Component{
           })
       }
     render(){
-        if(this.state.List){
+        if(Object.keys(this.state.List).length>0){
             content = this.state.List.map(function(e){
                 return <tr>
                 <th scope="row">{e.numero_cuenta}</th>
