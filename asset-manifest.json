@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Nexos/static/css/main.4e3e195d.chunk.css",
+    "main.js": "/Nexos/static/js/main.7e72cf59.chunk.js",
+    "main.js.map": "/Nexos/static/js/main.7e72cf59.chunk.js.map",
+    "runtime-main.js": "/Nexos/static/js/runtime-main.44c0acf4.js",
+    "runtime-main.js.map": "/Nexos/static/js/runtime-main.44c0acf4.js.map",
+    "static/js/2.30c482a2.chunk.js": "/Nexos/static/js/2.30c482a2.chunk.js",
+    "static/js/2.30c482a2.chunk.js.map": "/Nexos/static/js/2.30c482a2.chunk.js.map",
+    "index.html": "/Nexos/index.html",
+    "precache-manifest.d1422240cd38de2ffe9e01b255e622b7.js": "/Nexos/precache-manifest.d1422240cd38de2ffe9e01b255e622b7.js",
+    "service-worker.js": "/Nexos/service-worker.js",
+    "static/css/main.4e3e195d.chunk.css.map": "/Nexos/static/css/main.4e3e195d.chunk.css.map",
+    "static/js/2.30c482a2.chunk.js.LICENSE.txt": "/Nexos/static/js/2.30c482a2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Nexos/static/media/logo.5d5d9eef.svg",
+    "static/media/nexosLogo.gif": "/Nexos/static/media/nexosLogo.86d8b952.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44c0acf4.js",
+    "static/js/2.30c482a2.chunk.js",
+    "static/css/main.4e3e195d.chunk.css",
+    "static/js/main.7e72cf59.chunk.js"
+  ]
+}
