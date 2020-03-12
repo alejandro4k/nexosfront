@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59b07b3e37335b7ec8730807505f00bd",
+    "revision": "674a4236f7a2d1e7d1e5c0f2a0062a6e",
     "url": "/nexosfront/index.html"
   },
   {
-    "revision": "01312e2f82a398dfc840",
+    "revision": "a3d5204b25e036833b77",
     "url": "/nexosfront/static/css/main.4e3e195d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nexosfront/static/js/2.30c482a2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "01312e2f82a398dfc840",
-    "url": "/nexosfront/static/js/main.6a357ba6.chunk.js"
+    "revision": "a3d5204b25e036833b77",
+    "url": "/nexosfront/static/js/main.ed1f9414.chunk.js"
   },
   {
     "revision": "10424ed243e74b6dea70",

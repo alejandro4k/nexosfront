@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nexosfront/precache-manifest.36c0dac3a59517be29045f10364c4dad.js"
+  "/nexosfront/precache-manifest.c084a8ad2ea14db606222e1c327c8dd1.js"
 );
 
 self.addEventListener('message', (event) => {
