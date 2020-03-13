@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nexosfront/static/css/main.4e3e195d.chunk.css",
-    "main.js": "/nexosfront/static/js/main.ed1f9414.chunk.js",
-    "main.js.map": "/nexosfront/static/js/main.ed1f9414.chunk.js.map",
+    "main.js": "/nexosfront/static/js/main.8cf22c1f.chunk.js",
+    "main.js.map": "/nexosfront/static/js/main.8cf22c1f.chunk.js.map",
     "runtime-main.js": "/nexosfront/static/js/runtime-main.33b0e21e.js",
     "runtime-main.js.map": "/nexosfront/static/js/runtime-main.33b0e21e.js.map",
     "static/js/2.30c482a2.chunk.js": "/nexosfront/static/js/2.30c482a2.chunk.js",
     "static/js/2.30c482a2.chunk.js.map": "/nexosfront/static/js/2.30c482a2.chunk.js.map",
     "index.html": "/nexosfront/index.html",
-    "precache-manifest.c084a8ad2ea14db606222e1c327c8dd1.js": "/nexosfront/precache-manifest.c084a8ad2ea14db606222e1c327c8dd1.js",
+    "precache-manifest.458841c8862b2fad67454dd6ac5e2560.js": "/nexosfront/precache-manifest.458841c8862b2fad67454dd6ac5e2560.js",
     "service-worker.js": "/nexosfront/service-worker.js",
     "static/css/main.4e3e195d.chunk.css.map": "/nexosfront/static/css/main.4e3e195d.chunk.css.map",
     "static/js/2.30c482a2.chunk.js.LICENSE.txt": "/nexosfront/static/js/2.30c482a2.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.33b0e21e.js",
     "static/js/2.30c482a2.chunk.js",
     "static/css/main.4e3e195d.chunk.css",
-    "static/js/main.ed1f9414.chunk.js"
+    "static/js/main.8cf22c1f.chunk.js"
   ]
 }
